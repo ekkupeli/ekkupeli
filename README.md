@@ -95,7 +95,7 @@
 	<a href="mailto:kupeliemrekaan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ekkupeli"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/ekkupeli"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="[https://kaggle.com/in/ekkupeli](https://www.kaggle.com/ekkupeli)"><img src="https://img.icons8.com/bubbles/50/000000/kaggle.png" alt="Kaggle"/></a>
+	<a href="https://www.kaggle.com/ekkupeli"><img src="https://img.icons8.com/bubbles/50/000000/kaggle.png" alt="Kaggle"/></a>
 	<!--
   <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
